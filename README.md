@@ -28,7 +28,7 @@ Current tld supported domains can be found in filler.txt.
 ## How does it works
 ### Welcome screen and main menu 
 ![Welcome screen](/Demo_images/main_menu.png)
-<h3> Target database - u can specify serveral different objects to resolve with Perun </h3>
+### Target database - u can specify serveral different objects to resolve with Perun
 ![Target submenu screen](/Demo_images/target_input.png)
 ![Target_details](/Demo_images/target_details.png)
 ![Targets-list](/Demo_images/targets_final_list.png)
