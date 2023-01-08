@@ -61,7 +61,7 @@ sudo pip install -r requirements.txt
 <b>Perun</b> currently supports <b>Python 3</b>.
 The recommended version for Python 3 is 3.7.x
 <br><br>
-##<i>To-Do list:</i>
+## <i>To-Do list:</i>
 - [ ] expand tld supported domains</li>
 - [ ] add more whois query details</li>
 - [ ] simple (pdf) report creator</li>
