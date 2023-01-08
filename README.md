@@ -1,4 +1,4 @@
-#Meet Perun, the thunder god.
+<h1>Meet Perun, the thunder god.</h1>
 For many pagan slavs, <b>Perun</b> was the most important god. He was powerful, fierce but also kind and live-giving. Just like the <b>Information Gathering</b> is the first step for every penetration test. Without information about your target, you will go nowhere.
 <br>If you will get enough data, you can decide how to use it.
 <br><b>Perun</b> is a python tool designed to gather information about domains and subdomains using passive recon. 
