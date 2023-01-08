@@ -1,0 +1,50 @@
+# Meet Perun, the thunder god
+For many pagan slavs, **Perun** was the most important god. He was powerful, fierce but also kind and live-giving. 
+Just like the ***Information Gathering*** is the first step for every penetration test. 
+Without information about your target, you will go nowhere.
+If you will get enough data, you can decide how to use it.
+**Perun** is a python tool designed to gather information about domains and subdomains using passive recon. 
+It was developed and tested for *ParrotOs*.
+
+**Perun** enumerates subdomains using popular python libraries and online tools.
+It does nothing new, being a simple commands wrapper, it will help you receive the basic pieces of information in just a few clicks.
+
+## Dependencies:
+As mentioned above **Perun** depends on several different libraries.
+1. rich (library for rich text and beautiful formatting in the terminal)
+2. tld (Extract the top-level domain (TLD) from the URL given)
+3. requests
+4. json
+5. dig
+6. VirusTotal (free virus, malware, and URL online scanning service):      
+
+*Private API is needed to use VirusTotal.* 
+1. You must sign in to VirustTotal community, to retrieve your private API key.   
+
+        https://www.virustotal.com/gui/my-apikey    
+
+2. Insert your API KEY into "API" field in the configuration file, as shown below:    
+
+
+These dependencies can be installed using the requirements file:
+Installation on Linux   
+
+sudo pip install -r requirements.txt    
+
+Alternatively, each module can be installed independently before using **Perun**.
+Current tld supported domains can be found in filler.txt.
+
+
+## Installation    
+
+git clone https://github.com/mwitczak86/Perun  
+
+sudo pip install -r requirements.txt    
+
+
+## Recommended Python Version:
+**Perun** currently supports *Python 3*.
+The recommended version for Python 3 is 3.7.x
+
+
+
